@@ -1,0 +1,20 @@
+/* a nice set of colors */
+body {
+  font-family: Verdana;
+}
+
+a {
+  transition: color 0.4s ease;
+  color: #DA70D6;
+}
+
+a:hover {
+  color:#9932CC;
+}
+
+.yo {
+  font-family: Arial;
+  font-size: 12em;
+  color: #00FF7F;
+  text-shadow: 2px 2px 2px #D3D3D3;
+}
