@@ -3,6 +3,15 @@ body {
   font-family: Verdana;
 }
 
+#container {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  flex: 1 1 auto;
+}
+
 a {
   transition: color 0.4s ease;
   color: #DA70D6;
