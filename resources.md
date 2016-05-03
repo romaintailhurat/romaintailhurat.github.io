@@ -12,3 +12,7 @@
 [O'Reilly topics](https://www.oreilly.com/topics)
 
 [O'Reilly ideas](https://www.oreilly.com/ideas)
+
+###Papers
+
+[The morning paper](https://blog.acolyer.org/)
