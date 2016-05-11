@@ -16,3 +16,7 @@
 ###Papers
 
 [The morning paper](https://blog.acolyer.org/)
+
+###Culture
+
+Spotify culture [part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
