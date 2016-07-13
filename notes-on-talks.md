@@ -30,3 +30,41 @@ The civil engineering metaphor we're using is wrong.
 Surgery metaphor : nobody wants surgery unless it is mandatory, we want in that case professionals, proven techniques, not always the "standard methodology" ("we know Java, we do Java here")
 
 Kaizen : also about anticipating skill needs, and getting people trained (w/ cross training)
+
+##Adrian Cockroft - Microservices, state of the union
+
+[VIDEO](https://www.infoq.com/presentations/microservices-review)
+
+developper driven architecture
+dev responsible for :
+- time to value (TTV)
+- capacity planning, efficiency (tooling is there)
+- availability and security
+
+Continuously deploy the smallest changes, making it less risky
+Disruption : CD with containerized microservices
+
+Solution [Time to deploy, Time to live]
+ Datacenter [months, years] >
+ VM / Cloud [minutes, weeks] >
+ Container [seconds, days] >
+ Serverless [millis, seconds] 
+ 
+Solutions
+
+JVM : Spring / Netflix stack
+Scala : Twitter / Gilt
+Go : Hail / Soundcloud
+
+Small team : build things with a simple solution
+Growing : break in parts with MS, find the best tools
+==> Need to evolve continuously
+
+Segmentation : dev <> ops, tools are pushing the limits
+(cf. Docker), dev setting networks and roles
+
+Failure injection for building antifragile services (e.g. Chaos Monkey)
+
+Version aware routing (feature flags consistency)
+
+>> 29'
