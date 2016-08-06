@@ -20,3 +20,7 @@
 ###Culture
 
 Spotify culture [part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+
+### Tech
+
+[MIT Technology Review](https://www.technologyreview.com/)
