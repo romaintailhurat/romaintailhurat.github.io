@@ -1,0 +1,3 @@
+#!/bin/sh
+echo 'Generating HTML file for ' $1
+pandoc -f markdown -t html $1.md -o $1.html -c base.css
