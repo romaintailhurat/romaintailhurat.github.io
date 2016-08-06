@@ -1,5 +1,16 @@
 # Logs
 
+## Adrian Cockroft, Craft Conf 2016
+[VIDEO](http://www.ustream.tv/recorded/86151804)
+
+Difference in culture between Web scale companies (Goog, Netflix, Facebook) and Enterprise
+ * Freedom and responsability, high trust
+ * VS bureaucracy and blame, low trust
+
+Developers responsabilities: faster, cheaper, safer.
+
+Datacenter snowflakes (deploy: months / live: years) -> VM / Clouds (minutes / weeks) -> Containers (seconds / minutes) -> Lambda, serverless (millis / seconds)
+
 ## Rebecca Parsons, O'Reilly Software Architecture Conf 2016
 [VIDEO](https://www.oreilly.com/ideas/the-evolution-of-evolutionary-architecture-2016)
 
