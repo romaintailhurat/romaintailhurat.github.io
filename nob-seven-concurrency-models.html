@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="base.css" type="text/css" />
+</head>
+<body>
+<h1 id="seven-concurrency-models-in-seven-weeks">Seven concurrency models in seven weeks</h1>
+<h2 id="intro">Intro</h2>
+<p>Concurrency ~ Parallelism</p>
+<p>Rob Pike definition :</p>
+<ul>
+<li>Concurrency is about dealing with lots of things at once.</li>
+<li>Parallelism is about doing lots of things at once.</li>
+</ul>
+<p>Parallelism is everywhere : at the bit level, in the CPU, at the task level.</p>
+<p>Concurrency allows your software to be responsive, fault tolerant, efficient, and simple.</p>
+<p>Distributed systems are intrinsically concurrent.</p>
+<p>But we still want simple softwares, easy to think about !</p>
+<h2 id="threads-and-locks">Threads and locks</h2>
+<p>The simplest model : when executing multiple threads sharing memory we know bad things are going to happen (non deterministic behavior), so why not lock memory when one thread need to write it ? Yes but no, locks are hard to deal with and might lead to deadlocks... and there is only one way to stop a thread deadlocked : stop the runtime execution !</p>
+<p>We could then use interruption mechanism such as timeouts when trying to acquire a lock. But still we only stop a deadlock in a controlled fashion, but we could return to the same deadlock situation... And choosing the right timeout duration could be hard.</p>
+<p>Techniques for handling concurrency exist :</p>
+<ul>
+<li>Concurrent editing a data structure could be done with Hand-over-Hand Locking.</li>
+<li>We can check conditions of lock between threads, i.e. a thread could signal another that the condition for a lock might have a new state.</li>
+<li>Atomic variable or data structure allow for lock-free concurrent algorithms.</li>
+</ul>
+<p>((STOP PAGE 32))</p>
+</body>
+</html>
