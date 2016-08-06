@@ -1,5 +1,11 @@
-Write in markdown, produce HTML using Pandoc :
+Write in markdown, produce HTML using script :
 
 ```bash
-pandoc -f markdown -t html input-file.md -o output-file.html -c base.css
+md-to-html <filename-for-md-and-html>
+```
+
+For example, with a yo.md file :
+
+```bash
+md-to-html yo
 ```
