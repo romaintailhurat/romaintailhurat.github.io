@@ -24,3 +24,8 @@ Spotify culture [part 1](https://labs.spotify.com/2014/03/27/spotify-engineering
 ### Tech
 
 [MIT Technology Review](https://www.technologyreview.com/)
+
+### Data
+
+[Designing data intensive applications](http://dataintensive.net/)
+[Goods: Organizing Google's Datasets](http://research.google.com/pubs/pub45390.html)
