@@ -2,7 +2,13 @@
 <html>
   <head>
     <link rel="stylesheet" href="base.css" />
-    <script type="javascript" src="index.js"></script>
+    <script type="javascript" src="index.js">
+      const load = () => {
+        console.log("Body loaded.");
+      };
+
+      body.onload = load;
+    </script>
   </head>
   <body>
     <div id="container">
