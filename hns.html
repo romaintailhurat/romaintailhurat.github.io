@@ -7,7 +7,7 @@
         const entries = Object.entries(jsonList);
         const flatEntries = entries.map((item) => item[1]);
         const body = document.querySelector("body");
-        for (let entry in flatEntries) {
+        for (let entry of flatEntries) {
           const d = document.createElement("div");
           d.textContent = `${entry.text}`;
           body.appendChild(d);
