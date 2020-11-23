@@ -5,17 +5,18 @@
     <script language="javascript">
       const createList = (jsonList) => {
         const entries = Object.entries(jsonList);
+        const flatEntries = entries.map((item) => item[1]);
         const body = document.querySelector("body");
-        for (let entry in entries) {
+        for (let entry in flatEntries) {
           const d = document.createElement("div");
-          d.textContent = `${entry[0]}`;
+          d.textContent = `${entry.text}`;
           body.appendChild(d);
         }
       };
 
       fetch("stories.json")
         .then((response) => response.json())
-        .then((data) => console.log(data["0"]));
+        .then((data) => createList(data));
     </script>
   </head>
   <body></body>
