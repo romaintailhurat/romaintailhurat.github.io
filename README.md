@@ -1,11 +1,13 @@
-Write in markdown, produce HTML using script :
+# Digital garden
 
-```bash
-md-to-html <filename-for-md-and-html>
-```
+Found here: http://romaintailhurat.github.io/
 
-For example, with a yo.md file :
+> I'm currently rebuilding this site. :smiley:
 
-```bash
-md-to-html yo
-```
+## Made of...
+
+Pure and simple HTML & CSS & Javascript.
+
+## Icons
+
+https://icons8.com/icon/pack/logos/color
