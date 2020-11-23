@@ -3,6 +3,16 @@
   <head>
     <link rel="stylesheet" href="base.css" />
     <script language="javascript">
+      const createList = (jsonList) => {
+        const entries = Object.entries(jsonList);
+        const body = document.querySelector("body");
+        for (let entry in entries) {
+          const d = document.createElement("div");
+          d.textContent = `${entry[0]}`;
+          body.appendChild(d);
+        }
+      };
+
       fetch("stories.json")
         .then((response) => response.json())
         .then((data) => console.log(data["0"]));
