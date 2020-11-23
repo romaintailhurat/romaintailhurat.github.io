@@ -8,10 +8,12 @@
         const flatEntries = entries.map((item) => item[1]);
         const body = document.querySelector("body");
         for (let entry of flatEntries) {
+          const d = document.createElement("div");
           const a = document.createElement("a");
           a.textContent = `${entry.text}`;
           a.href = entry.link;
-          body.appendChild(a);
+          d.appendChild(a);
+          body.appendChild(d);
         }
       };
 
