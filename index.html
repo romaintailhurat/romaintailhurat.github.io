@@ -27,5 +27,12 @@
       </div>
     </div>
   </body>
-  <script type="javascript" src="index.js"></script>
+  <script language="javascript">
+    const afterPageLoad = () => {
+      console.log("loaded");
+    };
+
+    window.onload = afterPageLoad();
+  </script>
+  <script language="javascript" src="index.js"></script>
 </html>
