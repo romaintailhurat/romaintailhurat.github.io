@@ -4,15 +4,16 @@
     <link rel="stylesheet" href="base.css" />
     <script language="javascript">
       const createList = (jsonList) => {
-        const updated = jsonList["updated"];
-        const count = jsonList["count"];
         const entries = Object.entries(jsonList);
         const flatEntries = entries
           .filter((item) => item !== "updated" || item !== "count")
           .map((item) => item[1]);
         const body = document.querySelector("body");
+        const updated = jsonList["updated"];
+        const count = jsonList["count"];
         const infos = document.createElement("div");
         infos.textContent = `${updated} - ${count}`;
+        body.appendChild(infos);
         for (let entry of flatEntries) {
           const d = document.createElement("div");
           const a = document.createElement("a");
