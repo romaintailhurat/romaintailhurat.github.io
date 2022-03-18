@@ -1,0 +1,46 @@
+# Session 1
+
+Pour Saejin, en cavale depuis la mort accidentelle de son père, cette nouvelle aurait dû être du pur bonheur : il a retrouvé la trace de son frère, Jaelin.
+Malheureusement, le message qu'il a reçu de celui-ci n'est pas empli de joie mais de tension : Jaelin est traqué. Du moins il le pense.
+Il a donné rendez-vous à son frère au principal spatioport de Coriolis - Neoptra - dans le salon de chai de madame Shari.
+Cernant la menace, Saejin a fait appel à son camarade de l'université, Miibunke, qui est un des rares soutiens dont il dispose depuis un an.
+Mii comprend l'enjeu et convainc son compagnon d'aventure Abi de l'accompagner.
+
+__Puisse les Icônes vous accompagner dans cette épreuve.__
+
+—
+
+A Neoptra, les trois aventuriers ne trouvent pas Jaelin mais sont accostés par Althéa, ex prétendante à la gloire musicale aujourd’hui mystique en fuite, poursuivie par des gardes de Coriolis. Ceux-ci l’ont pourchassée jusqu’au salon de Chai du spatioport. Saejin et Mii l’aident à s’échapper du salon de thé sans être vue par les gardes, Abi faisant diversion par des contorsions artistiques dont il a le secret.
+
+Tous les trois suivent ensuite Althéa dans les entrepôts de l’Acconier central, sous le terminal principal de Neoptra. Là, elle leur explique connaître Jaelin depuis presque un cycle, qu’ils se sont entraidés dans leur compréhension de leurs pouvoirs naissants.
+
+Nos trois aventuriers se rendent à l’université pour visiter la chambre de Jaelin. Après avoir pris de l’info auprès de l’agent d’accueil, Ekvias, Saejin et Abi monte vers la chambre 323 -  Mii, encore sous l’effet du Sultra blanc, se repose sur un banc de l’accueil.
+
+Abi seul, puis aidé de Saejin, tente d’ouvrir la porte par la force. Celle-ci, bien que d’aspect peu solide, résiste. C’est finalement Mii, depuis hall, qui hacke la serrure.
+
+Une fois à l’intérieur, c’est une chambre spartiate qu’ils découvrent mais très bien rangée. Ils y trouvent un prospectus du Sanatorium proposant une aide pour les personnes atteintes par l’épidémie mystique, ainsi que le journal (papier) de Jaelin dans lequel il écrit être suivi, et avoir rencontré un matelot Aram Yafa.
+
+Mii finit par les rejoindre, il va utiliser une technique pour localiser le communicateur manquant : celui-ci semble se trouver à quelques chambres de là…
+
+
+# Session 2
+
+Mii affine le signal reçu du communicateur de Jaelin et trouve la source : un appartement à quelques mètres de là sur le même palier.
+
+Après quelques tergiversations sur la manière à employer et sur le danger potentiel résidant dans cet appartement, le trio désigne Abi pour aller frapper à la porte. Ce que celui-ci ne fait pas bien sûr, il entre directement dans l’appartement (dont la porte n’est pas verrouillée) et annonce théâtralement être à la recherche de nouveaux danseurs pour le club de l’université. En face de lui, une étudiante surprise - Mimia Moridorah, que tout le monde appelle Mimi - mais pas choquée, lui donne la réplique et exécute avec lui un pas de danse. Cependant, les tentatives d’Abi de la faire sortir de son appartement font face à un refus poli. Les nombreux coups d'œil du troubadour-tueur dans le capharnaüm coloré de Mimi ne permettent pas de localiser l’unité de com’.
+
+Abi quitte la scène comme il y est entré et laisse la place quelques minutes plus tard à Saejin et Mii. L’approche est plus directe cette fois-ci : Saejin explique pourquoi il est là, son frère a disparu et il semble que son communicateur soit là. Mimi n’est pas vraiment surprise par l’annonce de la situation et elle avoue avoir conservé le communicateur trouvé dans le couloir.  Elle ne savait pas qu’il s’agissait de celui de Jaelin mais elle doit se rendre à l’évidence quand Mii lui donne de manière assez définitive l’identifiant de l’appareil. Le data djinn a endossé le rôle du négociateur dur et finit par obtenir la vérité sur les circonstances de la perte du com’ : des membres de la Garde de Coriolis sont venus dans la résidence et ont fouillé l’appartement de Jaelin. Mimi les décrit comme inhabituellement effrayants sans qu’elle puisse expliquer pourquoi. Quand le duo lui présente la photo d’un des gardes captés par les caméras de surveillance de l’Esplanade Ozone, elle fait le lien direct avec les personnes qu’elle a vues.
+
+Abi a profité du moment pour bavarder avec Ekvias, le concierge, sans qu’il en apprenne beaucoup plus. Le trio se regroupe un peu plus tard à l’extérieur de la résidence, dans le patio floral et encore calme à ce moment de la journée. Alors qu’ils sont en train de discuter de la suite de leurs actions, les sens de Mii l’alertent : une menace imminente approche. Abibi dégaine immédiatement son scanner environnemental - qui ne détectera aucune menace biologique ou chimique. Quelques minutes plus tard, un gang de quatre acconiers désoeuvrés - c’est en tout cas ce que le sens de l’observation fin de Saejin et Mii leur fait comprendre - arrive dans la cour. C’est armés de barres à mines, matraques métalliques et autres objets contondants qu’avancent les voyous. Celui à leur tête pointe le trio du bout des doigts et crie : “C’est vous, les trois emmerdeurs ? On va vous apprendre à vous mêler des affaires des autres !”
+
+Sûr de sa capacité à négocier, Miibunke s’approche du groupe et lève la main pour annoncer sa volonté de discuter. De leur côté, Saejin et Abi réagissent vite : ils se placent tactiquement de part et d’autre de Mii et dégainent leurs armes. Tout s’enchaîne très vite : le voyou qui les a interpellés s’avance vers Mii, marque une pause, et alors que le data djinn pense à un début de dialogue, l’acconier lève son bras pour l’abattre sur le visage de Mii. Réflexe d’Abi, il lève son fusil Vulcain, vise la tête et tire, l’assaillant s’effondre. Deux des trois membres restants du gang s’enfuient immédiatement, le dernier lâche son arme et tombe à genou en suppliant qu’on l’épargne.
+
+Par chance, personne ne semble être directement témoin de la scène. Le trio s’organise vite : Saejin et Mii encadrent le survivant et le monte dans la chambre de Jaelin qu’ils avaient quittée il y a une dizaine de minutes. Abi, habitué des tâches obscures, traîne le corps sans vie et défiguré dans un imposant massif d’arbustes et tente de nettoyer la scène de toutes traces du combat. Pendant ce temps, Saejin ligote puis cuisine l'aconier, appuyé d’un direct ou deux au visage, maintenant passablement tuméfié. Il obtient le nom du leader du groupe - Tahir, dont le corps gît maintenant dans les végétaux du patio - mais rien sur le commanditaire. Il décide donc de descendre fouiller le cadavre. Mii s’apitoie et libère le docker. 
+
+Dans le hall, Abi négocie avec Merez Alcan - l’antiquaire aux liens avec le Syndicat - pour qu’il l’aide à se débarrasser du corps. Saejin trouve un papier cartonné sur Tahir et sur ce carton deux chiffres - 3000 et 3000 b - tet un locateur asymétrique (...). Abi, toujours en communication, voit le rescapé du groupe de voyous redescendre dans le hall, il se précipite sur lui et lui fait comprendre qu’il est dans son intérêt de remonter avec lui. Une fois dans la chambre, implacable, il plante sa lame Dura dans le sternum du pauvre acconier, puis termine sa négociation avec Alcan : ce sera deux corps à faire disparaître, pour 3000 birrs, et une dette envers l’antiquaire. Mii a terminé d’analyser le contenu du communicateur de Tahir, rien de particulier n’a été trouvé, en tout cas rien concernant un éventuel commanditaire. 
+
+Le trio décide de quitter les lieux. En ce début de soirée, ils se dirigent vers la place des Épices pour dîner au Tuhur Blanc. En chemin, Saejin appelle Althéa pour la mettre au courant des derniers développements - en omettant les passages les plus violents.
+
+De nombreuses pistes se présentent dorénavant : qui est Aram Yafa et quel est son rôle dans la disparition de Jaelin ? A-t-il été en contact avec les agresseurs ? Ceux-ci ont-ils un lien avec les gardes dont on retrouve la trace dans les évènements des derniers jours ? Et que se passe-t-il au Sanatorium ?
+
+Ce flot de questions est interrompu par l’agitation palpable dans les allées de l’anneau : les gens se regroupent autour de diffuseur holos et de la nouvelle qui vient de tomber : __l’Émissaire de Xène a disparu.__
