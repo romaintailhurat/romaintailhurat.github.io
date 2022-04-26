@@ -69,3 +69,21 @@ Dès qu’il entre, Saejin est pris de la migraine qui l’a assailli peu avant 
 
 Le réflexe du data djinn est bien sûr d’aller vérifier le système de surveillance - un accès physique à celui-ci au sous-sol est nécessaire. Il y trouvera un “trou” d’une heure dans les données captées. La dernière vidéo disponible avant ce gap montre l’ambassadeur de l’Hégémonie sur Coriolis, Johar Quassar, fils de.
 
+# Session 4
+
+Malgré l’angoisse de la disparition de Jaelin et des tensions nées de celle de l’Émissaire, il y a une évidence : le trio prend du plaisir à mener l’enquête. Mii et Abi remontent de la salle de données au sous-sol pour retrouver Saejin, sous l'œil toujours aussi vif de la judicatrice Kosha.
+
+Pendant que le data djinn et le danseur analysaient les dispositifs de sécurité, Saejin n’est pas resté les bras croisés : il a pris le temps d’observer la pièce et d’interroger Akouba Kosha, qui profiter de ce dialogue pour rappeler que les judicateurs formaient l’élite du corps policier de Coriolis - avec le sourire en coin dont elle a le secret.
+
+Parmi les éléments frappant, les livres répandus au sol du salon semblent tous rares voire très rares, et de grande valeur. Si le spectre des thèmes abordés est large, une chose les relie : tous semblent porter la connaissance de la culture originelle du Troisième Horizon, au travers de saintes écritures, de légendes et de chansons écrites par les premiers colons ou des nomades, et couvrent l’ensemble des systèmes de l’Horizon, jusqu’avant les Guerres des Portails.
+
+Mii remarque également que se trouvent au centre de la pièce quatre bols dont le contenu est plus ou moins renversé : de l’eau, de la semoule, une petite bougie - ce qu’il y avait dans le quatrième semble avoir disparu. Les connaissances du data djinn remontent à la surface, il distingue clairement là le signe des quatre transformations spirituelles que l’on rencontre dans bon nombre de traditions et pratiques religieuses disséminées dans l’Horizon.
+La judicatrice précisent à nos détectives amateurs que deux éléments font l’objet d’une étude du laboratoire judiciaire : le sang répandu au sol et sur les murs, et la balle retrouvée dans un des murs de la résidence. 
+
+Abi ne participe que peu à ces réflexions, il est toujours aussi mal à l’aise en présence de la judicatrice, il préfère prendre l’air. Sortant de la résidence de l’émissaire disparu, il se dirige vers la demeure la plus proche, en quête de témoins. C’est un majordome digne et âgé qui lui ouvre. Dans son style fleuri habituel, Abi tente une approche amicale mais devant le refus visible de parler il joue la carte de l’autorité. Le majordome, qui se présente comme étant “Salim”, insiste : sa maîtresse n’était pas là au moment des faits, et lui n’a rien vu. Abi le quitte, mais il demandera un rapport sur ce Salim et sa maîtresse à Akoub Kosha.
+
+Mii met en œuvre l’idée qui lui est venue : il a obtenu les données de surveillance de l’étage Abhrra. Un motif apparaît dans les données évaporées qui dessinent un trajet qu’auraient pris le ou les assaillants de l’émissaire. En suivant ce chemin le long du lac, le trio accompagné de la judicatrice arrivent au niveau de la coque intérieur de la station. Derrière un mince feuillage ils distinguent une écoutille de service. L’intérieur semble peu praticable, Abi propose d’utiliser son drone de reconnaissance. Malheureusement, sa maîtrise du pilotage de celui-ci n’est pas suffisante pour éviter les chocs à répétition de la machine. Le danseur finit par rapatrier la machine, sans avoir obtenu le moindre renseignement.
+
+Dans l’attente des analyses promises par Akouba Kosha, la décision est prise unanimement de se rendre - enfin - au Sanatorium, un lieu qui semble attirer les trois hommes comme un aimant.
+
+
