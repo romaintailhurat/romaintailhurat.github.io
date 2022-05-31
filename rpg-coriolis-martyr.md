@@ -86,4 +86,11 @@ Mii met en œuvre l’idée qui lui est venue : il a obtenu les données de surv
 
 Dans l’attente des analyses promises par Akouba Kosha, la décision est prise unanimement de se rendre - enfin - au Sanatorium, un lieu qui semble attirer les trois hommes comme un aimant.
 
+# Session 5
+
+__Journal de MIIbunke Wuph - jour 35 du segment du Sans-Visage - section #2__
+
+H13 - Le matin a été riche en informations, l’après-midi aussi. On a fini par débarquer au Sanatorium, Saejin s’est proposé de jouer au Mystique pour entrer dans la place. J’ai profité du moment pour me connecter et chercher des infos sur le lieux, et sur les gens qui le dirigent. Sur la soeur - Robwah - rien, une parfaite samaritaine. Le frère Ramas, c’est une autre histoire, il est apparemment lié à une sombre histoire, un vaisseau nommé le Ghazali qui aurait été détruit dans des circonstances assez louches, il a fallu que je creuse profond dans l’Holonet pour trouver ces maigres infos. Pendant ce temps, Abi, comme d’habitude, a la bougeotte, il a fait un tour du bâtiment, du complexe je devrais dire, il va se faire des copains comme d’hab’ aussi (il a croisé un livreur nommé Zhamir). On est resté en liaison avec Saejin tout le long de son “infiltration”. Même si des habitués comme Melko Iamas apprécient le lieu, on comprend qu’il y a quelque chose de pas net avec les mystiques qui sont passés par là.
+
+H15 - Saejin a fini par parler avec Ramas et Robwah, qui lui ont fait la déballe du programme de “soin” des mystiques : beaucoup de blabla. Cela dit, une fois la soeur partie, Ramas a laissé une puce comm’ chiffrée, il a visiblement quelque chose à lui dire en privé. Je savais que le gars était louche, plus tôt Saejin nous avait dit l’avoir vu sortir du seul bâtiment avec une porte de sûreté et un accès contrôlé. Pas net, je dis. Et puis, on est allé manger pas loin, on a fini par avoir un court message de Ramas : rendez-vous ce soir au jardin des Questeurs. Abi a encore filé, et, il m’étonne encore ce garçon, il a réussi à dénicher des informations sur des transactions souterraines en lien avec le Sanatorium, du matériel militaire, arrangées par une certaine Dara Hirscha. Bon, je vais aller me fournir en O, j’ai plus rien, la gorge me gratte. 
 
